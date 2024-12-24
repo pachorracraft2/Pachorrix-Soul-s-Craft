@@ -1437,3 +1437,50 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [24Dec2024 23:14:26.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Disconnected
 [24Dec2024 23:14:26.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
 [24Dec2024 23:14:28.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1244.500000, 66.500000, -2543.500000]
+[24Dec2024 23:17:26.639] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[24Dec2024 23:17:26.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ax1no> dormi fax
+[24Dec2024 23:17:38.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <innoww> zzzzzzzzzzzz
+[24Dec2024 23:17:39.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <innoww> zzzzzzzzzzzz
+[24Dec2024 23:17:42.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <innoww> zzzzzzzzz
+[24Dec2024 23:17:43.393] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zorbannnn[/127.225.238.135:42049] logged in with entity id 25930 at (-1089.227854131694, 75.0, 831.3188351716235)
+[24Dec2024 23:17:43.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn joined the game
+[24Dec2024 23:17:43.415] [Server thread/INFO] [Jade/]: Syncing config to Zorbannnn (1f190c6c-5c89-3176-827f-8a7a47ce92cf)
+[24Dec2024 23:18:03.091] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Disconnected
+[24Dec2024 23:18:03.091] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
+[24Dec2024 23:18:09.946] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zorbannnn[/127.225.238.135:60507] logged in with entity id 26237 at (7.5, 63.0, 10.5)
+[24Dec2024 23:18:09.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn joined the game
+[24Dec2024 23:18:09.975] [Server thread/INFO] [Jade/]: Syncing config to Zorbannnn (1f190c6c-5c89-3176-827f-8a7a47ce92cf)
+[24Dec2024 23:18:31.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1283.500000, 44.500000, -2333.500000]
+[24Dec2024 23:18:35.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1300.500000, -6.500000, -2352.500000]
+[24Dec2024 23:18:48.087] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx moved too quickly! -0.23777134716510773,-13.02798789738901,0.35025376081466675
+[24Dec2024 23:19:07.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Timed out
+[24Dec2024 23:19:07.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
+[24Dec2024 23:19:08.037] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Dec2024 23:19:43.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zorbannnn[/127.225.238.135:35437] logged in with entity id 28392 at (-36.40294882661825, 75.0, -53.831518610070226)
+[24Dec2024 23:19:43.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn joined the game
+[24Dec2024 23:19:43.629] [Server thread/INFO] [Jade/]: Syncing config to Zorbannnn (1f190c6c-5c89-3176-827f-8a7a47ce92cf)
+[24Dec2024 23:20:29.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1247.500000, -13.500000, -2173.500000]
+[24Dec2024 23:21:18.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1510.500000, 0.500000, -1938.500000]
+[24Dec2024 23:22:32.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1477.500000, 1.500000, -1784.500000]
+[24Dec2024 23:23:09.199] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx moved too quickly! -8.852932920482772,0.0,5.496559187265575
+[24Dec2024 23:23:10.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx was struck with lightning by Lightning Dragon
+[24Dec2024 23:23:10.602] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for ElFaxx with unique ID travelersbackpack.iron_24.12.2024-23.23.10.dat
+[24Dec2024 23:23:20.140] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: innoww moved too quickly! -9.023935304624956,-1.2491870787446828,4.432136957508192
+[24Dec2024 23:23:44.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1247.500000, 97.500000, -2561.500000]
+[24Dec2024 23:25:13.643] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx lost connection: Disconnected
+[24Dec2024 23:25:13.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx left the game
+[24Dec2024 23:25:15.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ax1no: Set own game mode to Creative Mode]
+[24Dec2024 23:25:19.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElFaxx[/127.231.169.85:51221] logged in with entity id 33961 at (-1256.32993283009, 45.0, -2525.440892391675)
+[24Dec2024 23:25:19.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx joined the game
+[24Dec2024 23:25:19.567] [Server thread/INFO] [Jade/]: Syncing config to ElFaxx (9e2d1f74-1c06-3d6c-8caf-73b61c7b7da6)
+[24Dec2024 23:25:28.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ax1no: Set own game mode to Survival Mode]
+[24Dec2024 23:26:01.338] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[24Dec2024 23:26:13.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Set own game mode to Spectator Mode]
+[24Dec2024 23:26:37.967] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1293.500000, 12.500000, -1996.500000]
+[24Dec2024 23:26:44.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1249.500000, -13.500000, -2180.500000]
+[24Dec2024 23:27:09.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <innoww> uh
+[24Dec2024 23:27:12.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <innoww> orkj
+[24Dec2024 23:27:13.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Zorbannnn> ?
+[24Dec2024 23:27:15.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ax1no> ?
+[24Dec2024 23:27:18.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <innoww> uhuuu
+[24Dec2024 23:27:40.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1300.500000, -6.500000, -2349.500000]
