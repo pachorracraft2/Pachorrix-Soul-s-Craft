@@ -1484,3 +1484,43 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [24Dec2024 23:27:15.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <Ax1no> ?
 [24Dec2024 23:27:18.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: <innoww> uhuuu
 [24Dec2024 23:27:40.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1300.500000, -6.500000, -2349.500000]
+[24Dec2024 23:28:04.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Set own game mode to Survival Mode]
+[24Dec2024 23:28:27.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ax1no: Teleported Ax1no to -6831.500000, 63.500000, -2815.500000]
+[24Dec2024 23:28:51.078] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-545}
+[24Dec2024 23:28:51.080] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[24Dec2024 23:28:53.342] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-589}
+[24Dec2024 23:28:53.343] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=28, z=-587}
+[24Dec2024 23:29:01.753] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Disconnected
+[24Dec2024 23:29:01.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
+[24Dec2024 23:29:08.839] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx lost connection: Disconnected
+[24Dec2024 23:29:08.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx left the game
+[24Dec2024 23:29:11.866] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=26, z=-541}
+[24Dec2024 23:29:12.482] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ax1no lost connection: Disconnected
+[24Dec2024 23:29:12.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ax1no left the game
+[24Dec2024 23:29:22.487] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ax1no[/127.8.3.202:34563] logged in with entity id 38321 at (-6851.421747614734, 66.0, -2850.687412477522)
+[24Dec2024 23:29:22.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ax1no joined the game
+[24Dec2024 23:29:22.516] [Server thread/INFO] [Jade/]: Syncing config to Ax1no (2ea79be0-a36f-3d15-9057-7ba3feff52c0)
+[24Dec2024 23:29:23.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElFaxx[/127.231.169.85:34297] logged in with entity id 38518 at (-1312.9935225543888, -7.0, -2365.221542158915)
+[24Dec2024 23:29:23.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx joined the game
+[24Dec2024 23:29:23.020] [Server thread/INFO] [Jade/]: Syncing config to ElFaxx (9e2d1f74-1c06-3d6c-8caf-73b61c7b7da6)
+[24Dec2024 23:29:39.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [innoww: Teleported innoww to Ax1no]
+[24Dec2024 23:30:22.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ax1no: Teleported Ax1no to -3863.500000, 227.500000, -1947.500000]
+[24Dec2024 23:30:41.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1474.500000, 1.000000, -1773.500000]
+[24Dec2024 23:30:44.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx was energized by Lightning Dragon
+[24Dec2024 23:30:46.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [innoww: Teleported innoww to Ax1no]
+[24Dec2024 23:30:51.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Set own game mode to Spectator Mode]
+[24Dec2024 23:30:57.560] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1475.500000, 1.000000, -1773.500000]
+[24Dec2024 23:31:04.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Set own game mode to Survival Mode]
+[24Dec2024 23:31:14.290] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zorbannnn[/127.225.238.135:54061] logged in with entity id 40754 at (-190.6258411804591, 74.0, -664.2502616903256)
+[24Dec2024 23:31:14.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn joined the game
+[24Dec2024 23:31:14.303] [Server thread/INFO] [Jade/]: Syncing config to Zorbannnn (1f190c6c-5c89-3176-827f-8a7a47ce92cf)
+[24Dec2024 23:31:41.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1478.500000, 1.500000, -1788.500000]
+[24Dec2024 23:32:28.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [innoww: Set the weather to rain]
+[24Dec2024 23:32:31.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx was slain by Lightning Dragon
+[24Dec2024 23:32:45.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1476.500000, -2.500000, -1773.500000]
+[24Dec2024 23:33:33.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx was doomed to fall by Lightning Dragon
+[24Dec2024 23:33:37.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1471.500000, -1.500000, -1777.500000]
+[24Dec2024 23:34:03.654] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx moved wrongly!
+[24Dec2024 23:34:27.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx was slain by Lightning Dragon
+[24Dec2024 23:34:32.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1459.500000, 2.500000, -1780.500000]
+[24Dec2024 23:37:20.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -911.500000, 162.500000, -2482.500000]
