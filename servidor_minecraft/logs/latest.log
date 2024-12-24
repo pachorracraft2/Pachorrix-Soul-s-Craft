@@ -1419,3 +1419,21 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [24Dec2024 23:06:23.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn was slain by Sea Serpent
 [24Dec2024 23:06:44.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Disconnected
 [24Dec2024 23:06:44.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
+[24Dec2024 23:07:31.591] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zorbannnn[/127.225.238.135:44859] logged in with entity id 16444 at (9.5, 63.0, 5.5)
+[24Dec2024 23:07:31.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn joined the game
+[24Dec2024 23:07:31.625] [Server thread/INFO] [Jade/]: Syncing config to Zorbannnn (1f190c6c-5c89-3176-827f-8a7a47ce92cf)
+[24Dec2024 23:08:03.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$FishHookState
+[24Dec2024 23:08:03.842] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/projectile/FishingHook$OpenWaterType
+[24Dec2024 23:08:31.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ax1no[/127.8.3.202:41699] logged in with entity id 16913 at (-3860.8130655979, 225.0, -1943.3798252362474)
+[24Dec2024 23:08:31.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ax1no joined the game
+[24Dec2024 23:08:31.247] [Server thread/INFO] [Jade/]: Syncing config to Ax1no (2ea79be0-a36f-3d15-9057-7ba3feff52c0)
+[24Dec2024 23:11:53.560] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/behavior/CrossbowAttack$CrossbowState
+[24Dec2024 23:11:53.643] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/piglin/PiglinArmPose
+[24Dec2024 23:12:08.493] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/lighting/LayerLightEventListener$DummyLightLayerEventListener
+[24Dec2024 23:12:13.715] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[24Dec2024 23:13:04.981] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[24Dec2024 23:13:04.983] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[24Dec2024 23:14:24.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn was slain by Bandit
+[24Dec2024 23:14:26.329] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Disconnected
+[24Dec2024 23:14:26.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
+[24Dec2024 23:14:28.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1244.500000, 66.500000, -2543.500000]
