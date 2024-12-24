@@ -1392,3 +1392,30 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 ]
 [24Dec2024 22:54:47.924] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
 [24Dec2024 22:54:53.308] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[24Dec2024 22:55:09.915] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WarpMode
+[24Dec2024 22:55:12.379] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/api/EventResult
+[24Dec2024 22:55:19.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[24Dec2024 22:55:29.467] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting yesman/epicfight/world/entity/eventlistener/ComboCounterHandleEvent$Causal
+[24Dec2024 22:56:05.039] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1693.500000, 112.500000, -2044.500000]
+[24Dec2024 22:56:23.069] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting fr/rakambda/fallingtree/common/tree/TreePartType
+[24Dec2024 22:57:52.289] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[24Dec2024 22:58:44.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -911.500000, 162.500000, -2482.500000]
+[24Dec2024 22:59:55.580] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Burma'/9551, l='ServerLevel[world]', x=-907.40, y=161.83, z=-2489.50] died: Burma tried to swim in lava
+[24Dec2024 23:02:27.520] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting de/keksuccino/fancymenu/networking/PacketHandler$PacketDirection
+[24Dec2024 23:03:15.353] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: innoww[/127.30.10.16:32785] logged in with entity id 12767 at (-3905.1228220202293, 227.5, -1989.675895753215)
+[24Dec2024 23:03:15.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: innoww joined the game
+[24Dec2024 23:03:15.470] [Server thread/INFO] [Jade/]: Syncing config to innoww (59c0706b-bfe7-3fde-ae3c-0a30a108474a)
+[24Dec2024 23:03:33.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Disconnected
+[24Dec2024 23:03:33.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
+[24Dec2024 23:04:08.291] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zorbannnn[/127.225.238.135:42699] logged in with entity id 13211 at (-1082.5534166164834, 62.008688595200844, 732.7736072949529)
+[24Dec2024 23:04:08.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn joined the game
+[24Dec2024 23:04:08.306] [Server thread/INFO] [Jade/]: Syncing config to Zorbannnn (1f190c6c-5c89-3176-827f-8a7a47ce92cf)
+[24Dec2024 23:04:16.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn was slain by Sea Serpent
+[24Dec2024 23:05:17.345] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Disconnected
+[24Dec2024 23:05:17.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
+[24Dec2024 23:05:26.745] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zorbannnn[/127.225.238.135:50947] logged in with entity id 14768 at (-1075.3879228674723, 69.0, 768.6632889956403)
+[24Dec2024 23:05:26.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn joined the game
+[24Dec2024 23:05:26.764] [Server thread/INFO] [Jade/]: Syncing config to Zorbannnn (1f190c6c-5c89-3176-827f-8a7a47ce92cf)
+[24Dec2024 23:06:23.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn was slain by Sea Serpent
+[24Dec2024 23:06:44.237] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Disconnected
+[24Dec2024 23:06:44.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
