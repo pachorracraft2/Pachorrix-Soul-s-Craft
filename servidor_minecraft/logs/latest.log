@@ -1524,3 +1524,29 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [24Dec2024 23:34:27.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx was slain by Lightning Dragon
 [24Dec2024 23:34:32.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1459.500000, 2.500000, -1780.500000]
 [24Dec2024 23:37:20.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -911.500000, 162.500000, -2482.500000]
+[24Dec2024 23:38:30.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Set the weather to rain]
+[24Dec2024 23:39:14.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Ax1no: Teleported Ax1no to innoww]
+[24Dec2024 23:39:32.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1514.500000, 86.500000, -2647.500000]
+[24Dec2024 23:40:04.492] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Disconnected
+[24Dec2024 23:40:04.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
+[24Dec2024 23:40:10.686] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: innoww lost connection: Disconnected
+[24Dec2024 23:40:10.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: innoww left the game
+[24Dec2024 23:40:13.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Ax1no lost connection: Disconnected
+[24Dec2024 23:40:13.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ax1no left the game
+[24Dec2024 23:40:23.188] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Ax1no[/127.8.3.202:40857] logged in with entity id 53879 at (-4003.2124596478398, 226.0, -1970.7105084672098)
+[24Dec2024 23:40:23.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Ax1no joined the game
+[24Dec2024 23:40:23.213] [Server thread/INFO] [Jade/]: Syncing config to Ax1no (2ea79be0-a36f-3d15-9057-7ba3feff52c0)
+[24Dec2024 23:40:26.196] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: innoww[/127.30.10.16:50175] logged in with entity id 54025 at (-4021.915737287199, 226.0, -1999.7204056948653)
+[24Dec2024 23:40:26.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: innoww joined the game
+[24Dec2024 23:40:26.241] [Server thread/INFO] [Jade/]: Syncing config to innoww (59c0706b-bfe7-3fde-ae3c-0a30a108474a)
+[24Dec2024 23:40:30.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Set the weather to rain]
+[24Dec2024 23:41:33.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx has made the advancement [The Song of the Dragons]
+[24Dec2024 23:41:40.592] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5037e565[id=<null>,name=Zorbannnn,properties={},legacy=false] (/127.225.238.135:52413) lost connection: Disconnected
+[24Dec2024 23:41:46.293] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Zorbannnn[/127.225.238.135:42945] logged in with entity id 54579 at (305.45581008619257, 66.0, -310.2149831880844)
+[24Dec2024 23:41:46.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn joined the game
+[24Dec2024 23:41:46.305] [Server thread/INFO] [Jade/]: Syncing config to Zorbannnn (1f190c6c-5c89-3176-827f-8a7a47ce92cf)
+[24Dec2024 23:42:29.455] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx has made the advancement [An Ear-Shattering Roar]
+[24Dec2024 23:45:39.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx has made the advancement [Dragon Commander]
+[24Dec2024 23:46:11.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx has made the advancement [Best Friends Forever]
+[24Dec2024 23:46:25.894] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -3863.500000, 228.500000, -1947.500000]
+[24Dec2024 23:46:48.986] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-3935, y=222, z=-1969} BlockPos{x=-3935, y=222, z=-1970}
