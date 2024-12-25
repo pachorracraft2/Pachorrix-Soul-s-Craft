@@ -310,3 +310,21 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [25Dec2024 00:17:06.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Gave 64 [Lightning Dragon Blood] to ElFaxx]
 [25Dec2024 00:17:49.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Gave 1 [Dragonforge Lightning Aperture] to ElFaxx]
 [25Dec2024 00:18:00.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Set own game mode to Creative Mode]
+[25Dec2024 00:20:31.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Gave 1 [Dragonforge Lightning Core] to ElFaxx]
+[25Dec2024 00:20:46.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Set own game mode to Survival Mode]
+[25Dec2024 00:20:51.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -911.500000, 162.500000, -2482.500000]
+[25Dec2024 00:21:14.876] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx lost connection: Disconnected
+[25Dec2024 00:21:14.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx left the game
+[25Dec2024 00:21:32.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Dec2024 00:21:32.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Dec2024 00:21:32.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Dec2024 00:21:32.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Dec2024 00:21:32.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Dec2024 00:21:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Dec2024 00:21:32.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/twilightforest:twilight_forest
+[25Dec2024 00:21:32.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Dec2024 00:21:32.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Dec2024 00:21:32.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Dec2024 00:21:32.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[25Dec2024 00:21:32.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Dec2024 00:21:32.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
