@@ -292,3 +292,21 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [25Dec2024 00:08:04.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1962.500000, -17.500000, -2204.500000]
 [25Dec2024 00:08:04.562] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
 [25Dec2024 00:08:17.437] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx moved wrongly!
+[25Dec2024 00:09:22.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx moved wrongly!
+[25Dec2024 00:09:49.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx moved wrongly!
+[25Dec2024 00:10:20.088] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx has made the advancement [Take Aim]
+[25Dec2024 00:10:39.840] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/blay09/mods/waystones/core/WaystoneEditPermissions
+[25Dec2024 00:13:18.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1250.500000, -13.500000, -2179.500000]
+[25Dec2024 00:13:27.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1303.500000, -6.500000, -2358.500000]
+[25Dec2024 00:13:29.186] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: innoww lost connection: Disconnected
+[25Dec2024 00:13:29.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: innoww left the game
+[25Dec2024 00:13:35.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -718.500000, -14.500000, -2493.500000]
+[25Dec2024 00:13:49.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -464.500000, -48.500000, -2656.500000]
+[25Dec2024 00:15:05.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1307.500000, -6.500000, -2359.500000]
+[25Dec2024 00:15:25.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1964.500000, -16.500000, -2201.500000]
+[25Dec2024 00:15:39.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1468.500000, 1.500000, -1764.500000]
+[25Dec2024 00:16:03.433] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Zorbannnn lost connection: Disconnected
+[25Dec2024 00:16:03.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Zorbannnn left the game
+[25Dec2024 00:17:06.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Gave 64 [Lightning Dragon Blood] to ElFaxx]
+[25Dec2024 00:17:49.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Gave 1 [Dragonforge Lightning Aperture] to ElFaxx]
+[25Dec2024 00:18:00.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Set own game mode to Creative Mode]
