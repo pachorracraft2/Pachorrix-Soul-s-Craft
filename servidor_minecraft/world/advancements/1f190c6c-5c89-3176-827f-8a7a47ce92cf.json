@@ -2131,5 +2131,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2024-12-24 23:56:29 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2024-12-24 23:55:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
