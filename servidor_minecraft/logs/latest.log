@@ -1416,3 +1416,48 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar%2381!/:4.1.82.Final]
 	... 28 more
 [13Jan2025 04:18:36.568] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/fluids/capability/IFluidHandler$FluidAction
+[13Jan2025 04:19:55.227] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/alexsmobs/entity/util/TerrapinTypes
+[13Jan2025 04:19:56.895] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/monster/Phantom$AttackPhase
+[13Jan2025 04:20:12.844] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[13Jan2025 04:20:28.534] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/gen/WorldGenMyrmexHive$RoomType
+[13Jan2025 04:20:31.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ElFaxx) moved too quickly! -11.302689085876409,-0.1162426014951734,-2.4387532759617443
+[13Jan2025 04:20:31.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ElFaxx) moved too quickly! -13.261643506001292,-0.12844420234647203,-2.8789730875701025
+[13Jan2025 04:20:31.080] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ElFaxx) moved too quickly! -15.237834779286231,-0.13920601429732926,-3.3192602517074192
+[13Jan2025 04:20:31.081] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ElFaxx) moved too quickly! -17.229228957058467,-0.14869793243798313,-3.7596068207751614
+[13Jan2025 04:20:31.152] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ElFaxx) moved too quickly! -9.870754513421844,-0.0546612173134946,-2.201395957226623
+[13Jan2025 04:20:31.168] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ElFaxx) moved too quickly! -11.887384357222118,-0.06204520824114468,-2.6418411339641352
+[13Jan2025 04:20:31.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ElFaxx) moved too quickly! -13.91449510529742,-0.06855788823932585,-3.082088899381233
+[13Jan2025 04:20:31.271] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of ElFaxx) moved too quickly! -15.950894603910228,-0.07430207199772099,-3.5219481561318844
+[13Jan2025 04:20:48.857] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/frog/ShootTongue$State
+[13Jan2025 04:21:24.742] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -6719.500000, 108.500000, -2331.500000]
+[13Jan2025 04:21:46.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -1261.500000, 119.500000, -1923.500000]
+[13Jan2025 04:23:57.639] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/structure/StructureCheckResult
+[13Jan2025 04:24:10.078] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,guardvillagers:main,citadel:main_channel,easymagic:1,iceandfire:main_channel,curios:main,fantasyfurniture:net,w2w2:main,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,jet_and_elias_armors:jet_and_elias_armors,alexsmobs:main_channel,memory_of_the_past:memory_of_the_past,epicfight:network_manager,shifu_epic_fight_skill_recipe:shifu_epic_fight_skill_recipe,doggytalents:channel,twilightforest:channel,waystones:network,apexcore:main] rejected vanilla connections
+[13Jan2025 04:24:10.084] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.32.52.231:45269] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[13Jan2025 04:24:32.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx lost connection: Disconnected
+[13Jan2025 04:24:32.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx left the game
+[13Jan2025 04:24:32.711] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[13Jan2025 04:24:42.151] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElFaxx[/127.23.36.210:57325] logged in with entity id 9977 at (-1821.03741266045, 79.0, -1681.0874414970037)
+[13Jan2025 04:24:42.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx joined the game
+[13Jan2025 04:24:42.180] [Server thread/INFO] [Jade/]: Syncing config to ElFaxx (9e2d1f74-1c06-3d6c-8caf-73b61c7b7da6)
+[13Jan2025 04:28:15.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -6819.500000, 74.500000, -2379.500000]
+[13Jan2025 04:28:25.411] [Worker-Main-2/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/world/IafWorldData$FeatureType
+[13Jan2025 04:28:25.779] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/alexthe666/iceandfire/enums/EnumHippogryphTypes
+[13Jan2025 04:28:26.516] [Worker-Main-3/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/levelgen/OreVeinifier$VeinType
+[13Jan2025 04:28:34.883] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[13Jan2025 04:28:34.884] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[13Jan2025 04:28:45.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fr0chi moved wrongly!
+[13Jan2025 04:30:43.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -911.500000, 162.500000, -2482.500000]
+[13Jan2025 04:31:39.681] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[13Jan2025 04:31:39.689] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[13Jan2025 04:31:39.690] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[13Jan2025 04:31:39.690] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[13Jan2025 04:31:39.691] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[13Jan2025 04:31:39.701] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-291, y=-57, z=-315}
+[13Jan2025 04:31:39.702] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-292, y=-57, z=-313}
+[13Jan2025 04:31:39.702] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-294, y=-57, z=-313}
+[13Jan2025 04:31:39.702] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-296, y=-57, z=-313}
+[13Jan2025 04:31:39.705] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-295, y=-57, z=-315}
+[13Jan2025 04:31:39.705] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
+[13Jan2025 04:31:41.392] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[13Jan2025 04:31:41.393] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
