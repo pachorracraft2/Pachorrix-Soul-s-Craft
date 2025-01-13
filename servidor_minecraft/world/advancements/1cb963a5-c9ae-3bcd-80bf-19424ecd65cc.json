@@ -5043,5 +5043,11 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-01-13 04:43:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }

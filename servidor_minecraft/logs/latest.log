@@ -1486,3 +1486,36 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [13Jan2025 04:41:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -7352.500000, 64.500000, -1935.500000]
 [13Jan2025 04:42:28.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi was turned to stone by Gorgon
 [13Jan2025 04:42:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -7357.500000, 65.500000, -1941.500000]
+[13Jan2025 04:42:47.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi was turned to stone by Gorgon
+[13Jan2025 04:42:52.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -7355.500000, 65.500000, -1945.500000]
+[13Jan2025 04:43:06.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to Fr0chi]
+[13Jan2025 04:43:31.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi has made the advancement [Clash of the Titans]
+[13Jan2025 04:44:29.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -911.500000, 162.500000, -2482.500000]
+[13Jan2025 04:45:04.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:04.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:04.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:04.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:04.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:04.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:05.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:05.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:05.334] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:05.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:05.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.335] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.534] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:07.234] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:07.367] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:07.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:07.531] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:07.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:50:14.792] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-815}
+[13Jan2025 04:50:21.380] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-196, y=27, z=-819}
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,guardvillagers:main,citadel:main_channel,easymagic:1,iceandfire:main_channel,curios:main,fantasyfurniture:net,w2w2:main,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,jet_and_elias_armors:jet_and_elias_armors,alexsmobs:main_channel,memory_of_the_past:memory_of_the_past,epicfight:network_manager,shifu_epic_fight_skill_recipe:shifu_epic_fight_skill_recipe,doggytalents:channel,twilightforest:channel,waystones:network,apexcore:main] rejected vanilla connections
+[13Jan2025 04:51:28.390] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.32.52.231:59021] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[13Jan2025 04:52:50.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Randa'/46094, l='ServerLevel[world]', x=-5396.40, y=68.94, z=-712.54] died, message: 'Randa was slain by Fr0chi'
+[13Jan2025 04:52:50.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Randa'/46094, l='ServerLevel[world]', x=-5396.40, y=68.94, z=-712.54] died: Randa was slain by Fr0chi

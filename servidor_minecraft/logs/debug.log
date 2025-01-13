@@ -9374,3 +9374,115 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [13Jan2025 04:42:28.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi was turned to stone by Gorgon
 [13Jan2025 04:42:30.219] [Server thread/DEBUG] [twilightforest/]: Player Fr0chi (1cb963a5-c9ae-3bcd-80bf-19424ecd65cc) respawned and received items held in storage
 [13Jan2025 04:42:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -7357.500000, 65.500000, -1941.500000]
+[13Jan2025 04:42:47.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi was turned to stone by Gorgon
+[13Jan2025 04:42:49.095] [Server thread/DEBUG] [twilightforest/]: Player Fr0chi (1cb963a5-c9ae-3bcd-80bf-19424ecd65cc) respawned and received items held in storage
+[13Jan2025 04:42:52.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -7355.500000, 65.500000, -1945.500000]
+[13Jan2025 04:43:06.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to Fr0chi]
+[13Jan2025 04:43:31.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi has made the advancement [Clash of the Titans]
+[13Jan2025 04:44:29.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -911.500000, 162.500000, -2482.500000]
+[13Jan2025 04:45:04.037] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:04.145] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:04.241] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:04.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:04.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:04.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:05.146] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:05.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:05.334] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:05.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:05.547] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.139] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.260] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.335] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.534] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:06.635] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:07.234] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:07.367] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:07.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:07.531] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:07.640] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:45:42.001] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior1
+[13Jan2025 04:45:46.808] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 04:45:46.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 04:49:18.727] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[13Jan2025 04:49:35.264] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:coliseum/coliseum_part_2 is being run through DFU (hash f3d5e864513064cb00980606061c16d685b14e604b542bbd094be281a9ad5b13), this will cause launch time delays
+[13Jan2025 04:49:35.373] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mechanical_nest/mechanical_nest_start_0
+[13Jan2025 04:49:35.402] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:merchant_campsite/merchant_campsite_street_4_main
+[13Jan2025 04:49:35.435] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:plague_asylum/plague_asylum_corridor_4_crossing_pit
+[13Jan2025 04:49:35.444] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:thornborn_towers/thornborn_towers_part_0_main
+[13Jan2025 04:49:35.492] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:foundry/foundry_crossing_start_0
+[13Jan2025 04:49:35.501] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_corsair/illager_corsair_part_1
+[13Jan2025 04:49:35.510] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:monastery/monastery_start
+[13Jan2025 04:49:36.688] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:keep_kayra/keep_kayra_main_0
+[13Jan2025 04:49:36.859] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_campsite/illager_campsite_street_6_main
+[13Jan2025 04:49:36.921] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_village/mushroom_village_house_big_0
+[13Jan2025 04:49:36.948] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_fort/illager_fort_part_2
+[13Jan2025 04:49:37.001] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:shiraz_palace/shiraz_palace_part_13
+[13Jan2025 04:49:37.022] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:scorched_mines/scorched_mines_well_0
+[13Jan2025 04:49:37.033] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_mines/mushroom_mines_part_2 is being run through DFU (hash 93781b295d0623765f2c609cf4bf6765a449ac39f3c3c55b5426812aaf237ddc), this will cause launch time delays
+[13Jan2025 04:49:37.297] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:greenwood_pub/greenwood_pub_0
+[13Jan2025 04:49:37.322] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:infested_temple/infested_temple_layout_part_1_middle
+[13Jan2025 04:49:37.348] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:illager_windmill/illager_windmill_part_0
+[13Jan2025 04:49:37.386] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_towers/bandit_towers_crossing_0
+[13Jan2025 04:49:37.446] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_conqueror/heavenly_conqueror_part_2
+[13Jan2025 04:49:37.459] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:typhon/typhon_part_1
+[13Jan2025 04:49:37.468] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bandit_village/bandit_village_street_2
+[13Jan2025 04:49:37.484] [Worker-Main-3/DEBUG] [ModernFix/]: Structure dungeons_arise:mushroom_house/mushroom_house_bottom_2 is being run through DFU (hash 6d894f474be7edd88ed8bab9ce59099e96d3a95e4988125d46800acbd96a176f), this will cause launch time delays
+[13Jan2025 04:49:37.559] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_triple_0
+[13Jan2025 04:49:37.626] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:aviary/aviary_part_13
+[13Jan2025 04:49:37.646] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:ceryneian_hind/ceryneian_hind_part_1
+[13Jan2025 04:49:37.671] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_2
+[13Jan2025 04:49:58.831] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:abandoned_temple/abandoned_temple_1
+[13Jan2025 04:50:14.792] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-200, y=35, z=-815}
+[13Jan2025 04:50:21.380] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-196, y=27, z=-819}
+[13Jan2025 04:50:41.435] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_top
+[13Jan2025 04:50:41.443] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:graveyard/graveyard_bottom
+[13Jan2025 04:50:46.770] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 04:50:46.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'corpse:default' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'guardvillagers:main' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'craftingtweaks:network' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'easymagic:1' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fallingtree:main' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fancymenu:play' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'modernfix:main' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'placebo:placebo' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'tpa:tpa' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.388] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fantasyfurniture:net' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'w2w2:main' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'appleskin:sync' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'weaponmaster_ydm:yearscnetworking' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jet_and_elias_armors:jet_and_elias_armors' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'memory_of_the_past:memory_of_the_past' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'foxapi:foxapi' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'shifu_epic_fight_skill_recipe:shifu_epic_fight_skill_recipe' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'doggytalents:channel' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'twilightforest:channel' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Vanilla acceptance test: ACCEPTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'apexcore:main' : Vanilla acceptance test: REJECTED
+[13Jan2025 04:51:28.389] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,guardvillagers:main,citadel:main_channel,easymagic:1,iceandfire:main_channel,curios:main,fantasyfurniture:net,w2w2:main,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,jet_and_elias_armors:jet_and_elias_armors,alexsmobs:main_channel,memory_of_the_past:memory_of_the_past,epicfight:network_manager,shifu_epic_fight_skill_recipe:shifu_epic_fight_skill_recipe,doggytalents:channel,twilightforest:channel,waystones:network,apexcore:main] rejected vanilla connections
+[13Jan2025 04:51:28.390] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.32.52.231:59021] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[13Jan2025 04:52:50.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Randa'/46094, l='ServerLevel[world]', x=-5396.40, y=68.94, z=-712.54] died, message: 'Randa was slain by Fr0chi'
+[13Jan2025 04:52:50.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Randa'/46094, l='ServerLevel[world]', x=-5396.40, y=68.94, z=-712.54] died: Randa was slain by Fr0chi
