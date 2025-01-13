@@ -1461,3 +1461,28 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [13Jan2025 04:31:39.705] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-293, y=-57, z=-315}
 [13Jan2025 04:31:41.392] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
 [13Jan2025 04:31:41.393] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[13Jan2025 04:34:08.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fr0chi moved wrongly!
+[13Jan2025 04:34:35.258] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Note
+[13Jan2025 04:34:35.259] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/NoteBlockEvent$Octave
+[13Jan2025 04:34:36.394] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx moved too quickly! 9.876659377882106,0.12160004615782327,-2.64552396026329
+[13Jan2025 04:35:07.437] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx lost connection: You logged in from another location
+[13Jan2025 04:35:07.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx left the game
+[13Jan2025 04:35:07.449] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ElFaxx[/127.23.36.210:49411] logged in with entity id 20738 at (-912.482962596043, 162.20000004768372, -2482.6745670093906)
+[13Jan2025 04:35:07.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx joined the game
+[13Jan2025 04:35:07.507] [Server thread/INFO] [Jade/]: Syncing config to ElFaxx (9e2d1f74-1c06-3d6c-8caf-73b61c7b7da6)
+[13Jan2025 04:38:33.676] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/level/PistonEvent$PistonMoveType
+[13Jan2025 04:39:03.396] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi has reached the goal [Postmortal]
+[13Jan2025 04:39:03.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fr0chi moved too quickly! -7.082192319303431,1.1661092609382138,-7.264153447029685
+[13Jan2025 04:39:03.420] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 10098ms or 201 ticks behind
+[13Jan2025 04:39:06.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi was turned to stone by Gorgon
+[13Jan2025 04:39:06.300] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for Fr0chi with unique ID travelersbackpack.diamond_13.01.2025-04.39.06.dat
+[13Jan2025 04:39:21.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -7368.500000, 55.500000, -1938.500000]
+[13Jan2025 04:40:10.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi was turned to stone by Gorgon
+[13Jan2025 04:40:19.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -7357.500000, 65.500000, -1943.500000]
+[13Jan2025 04:40:28.135] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:40:31.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi was turned to stone by Gorgon
+[13Jan2025 04:40:36.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -7353.500000, 64.500000, -1942.500000]
+[13Jan2025 04:41:07.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi was turned into gorgonzola by Gorgon
+[13Jan2025 04:41:53.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -7352.500000, 64.500000, -1935.500000]
+[13Jan2025 04:42:28.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi was turned to stone by Gorgon
+[13Jan2025 04:42:35.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -7357.500000, 65.500000, -1941.500000]
