@@ -4955,6 +4955,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/end_crystal": {
+    "criteria": {
+      "has_ender_eye": "2025-01-13 05:11:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
@@ -4985,6 +4991,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/end": {
+    "criteria": {
+      "has_ender_eye": "2025-01-13 05:11:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
@@ -5012,6 +5024,18 @@
   "minecraft:recipes/building_blocks/red_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone": {
+    "criteria": {
+      "has_polished_blackstone_slab": "2025-01-13 05:19:09 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_soul_black_smith": {
+    "criteria": {
+      "blacksmith": "2025-01-13 05:16:58 +0000"
     },
     "done": true
   },
@@ -5060,6 +5084,12 @@
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-01-13 04:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ender_chest": {
+    "criteria": {
+      "has_ender_eye": "2025-01-13 05:11:19 +0000"
     },
     "done": true
   },
