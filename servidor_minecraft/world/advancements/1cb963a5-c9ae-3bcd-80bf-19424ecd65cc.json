@@ -101,6 +101,7 @@
       "minecraft:cave_spider": "2024-12-23 05:10:02 +0000",
       "minecraft:enderman": "2024-12-22 05:05:09 +0000",
       "minecraft:stray": "2025-01-13 04:29:12 +0000",
+      "minecraft:vex": "2025-01-13 05:02:06 +0000",
       "minecraft:zombie": "2024-12-22 03:34:23 +0000",
       "minecraft:zombie_villager": "2024-12-22 08:27:14 +0000"
     },
@@ -5035,6 +5036,12 @@
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_illager_fort": {
+    "criteria": {
+      "location0": "2025-01-13 05:01:22 +0000"
     },
     "done": true
   },
