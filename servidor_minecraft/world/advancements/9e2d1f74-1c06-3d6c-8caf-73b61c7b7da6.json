@@ -520,6 +520,7 @@
       "cooked_porkchop": "2024-12-23 07:12:24 +0000",
       "cooked_mutton": "2024-12-23 06:53:35 +0000",
       "cooked_beef": "2024-12-23 04:50:07 +0000",
+      "baked_potato": "2024-12-26 00:01:19 +0000",
       "apple": "2024-12-24 04:43:00 +0000",
       "cooked_cod": "2024-12-25 00:01:42 +0000",
       "golden_apple": "2024-12-23 04:05:28 +0000",
@@ -2310,6 +2311,7 @@
     "criteria": {
       "minecraft:pillager": "2024-12-23 06:21:54 +0000",
       "minecraft:skeleton": "2024-12-23 04:37:19 +0000",
+      "minecraft:vindicator": "2024-12-25 23:29:30 +0000",
       "minecraft:magma_cube": "2024-12-24 04:24:47 +0000",
       "minecraft:spider": "2024-12-23 06:23:14 +0000",
       "minecraft:piglin_brute": "2024-12-24 04:23:18 +0000",
@@ -2318,6 +2320,7 @@
       "minecraft:wither_skeleton": "2024-12-23 08:25:23 +0000",
       "minecraft:piglin": "2024-12-24 04:23:26 +0000",
       "minecraft:enderman": "2024-12-23 06:24:20 +0000",
+      "minecraft:stray": "2024-12-26 00:34:55 +0000",
       "minecraft:zombie": "2024-12-23 06:26:25 +0000",
       "minecraft:zombie_villager": "2024-12-23 07:00:45 +0000"
     },
@@ -2583,14 +2586,25 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2024-12-26 00:30:27 +0000",
       "minecraft:deep_ocean": "2024-12-23 07:25:50 +0000",
+      "minecraft:birch_forest": "2024-12-25 22:47:58 +0000",
+      "minecraft:bamboo_jungle": "2024-12-26 00:06:24 +0000",
       "minecraft:savanna_plateau": "2024-12-23 07:33:37 +0000",
+      "minecraft:beach": "2024-12-30 21:15:28 +0000",
+      "minecraft:dark_forest": "2024-12-26 00:30:20 +0000",
       "minecraft:mangrove_swamp": "2024-12-24 03:58:35 +0000",
+      "minecraft:sparse_jungle": "2024-12-26 00:05:16 +0000",
       "minecraft:river": "2024-12-23 07:18:58 +0000",
+      "minecraft:snowy_plains": "2024-12-25 22:33:51 +0000",
       "minecraft:dripstone_caves": "2024-12-23 06:23:07 +0000",
+      "minecraft:swamp": "2024-12-30 21:15:12 +0000",
       "minecraft:forest": "2024-12-24 04:29:54 +0000",
       "minecraft:lush_caves": "2024-12-23 07:01:43 +0000",
       "minecraft:jungle": "2024-12-23 06:45:35 +0000",
+      "minecraft:ocean": "2024-12-30 21:15:29 +0000",
+      "minecraft:old_growth_spruce_taiga": "2024-12-30 21:15:21 +0000",
+      "minecraft:windswept_savanna": "2024-12-26 00:36:32 +0000",
       "minecraft:savanna": "2024-12-23 07:33:35 +0000",
       "minecraft:plains": "2024-12-24 04:30:05 +0000"
     },
@@ -3654,9 +3668,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/shoot_arrow": {
+  "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
-      "shot_arrow": "2024-12-25 00:10:20 +0000"
+      "has_sand": "2024-12-25 00:00:37 +0000"
     },
     "done": true
   },
@@ -3672,9 +3686,459 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/sandstone": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_sand": "2024-12-25 00:00:37 +0000"
+      "shot_arrow": "2024-12-25 00:10:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_core": {
+    "criteria": {
+      "core": "2024-12-25 22:08:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_black_to_dragonscales_black": {
+    "criteria": {
+      "has_dragonscale_black": "2024-12-25 22:11:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_stone_bricks": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_ice_brick": {
+    "criteria": {
+      "has_item": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_brick": {
+    "criteria": {
+      "has_item": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_stairs": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_fire_brick": {
+    "criteria": {
+      "has_item": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks": {
+    "criteria": {
+      "has_tag": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/stone_brick_wall_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone_brick_slab": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
+    "criteria": {
+      "has_stone_bricks": "2024-12-25 22:12:32 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_input": {
+    "criteria": {
+      "has_item": "2024-12-25 22:12:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonforge_lightning_core_disabled": {
+    "criteria": {
+      "has_item": "2024-12-25 22:12:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_forge_brick": {
+    "criteria": {
+      "forge": "2024-12-25 22:12:40 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonbone": {
+    "criteria": {
+      "has_dragon_bone_block": "2024-12-25 22:20:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonscale_amythest_to_dragonscales_amythest": {
+    "criteria": {
+      "has_dragonscale_amythest": "2024-12-25 22:24:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_stone": {
+    "criteria": {
+      "has_item": "2024-12-25 22:34:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dread_torch": {
+    "criteria": {
+      "has_item": "2024-12-25 22:34:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2024-12-25 22:35:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2024-12-25 22:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2024-12-25 22:49:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/black_sleeping_bag": {
+    "criteria": {
+      "has_black_wool": "2024-12-25 22:49:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2024-12-25 22:49:53 +0000"
+    },
+    "done": true
+  },
+  "dungeons_arise:find_small_blimp": {
+    "criteria": {
+      "location0": "2024-12-25 22:54:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-25 22:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-25 22:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-25 22:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2024-12-25 22:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2024-12-25 23:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2024-12-25 23:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2024-12-25 23:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2024-12-25 23:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2024-12-25 23:48:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2024-12-26 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-26 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-26 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-26 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-26 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-26 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2024-12-26 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2024-12-26 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2024-12-26 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2024-12-26 00:10:39 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/wither": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-26 01:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/get_wither_skull": {
+    "criteria": {
+      "wither_skull": "2024-12-26 01:13:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/skull_banner_pattern": {
+    "criteria": {
+      "has_wither_skeleton_skull": "2024-12-26 01:13:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonsteel_lightning_ingot_to_dragonsteel_lightning_block": {
+    "criteria": {
+      "has_dragonsteel_lightning_ingot": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel": {
+    "criteria": {
+      "steel": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_helmet": {
+    "criteria": {
+      "has_item": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_leggings": {
+    "criteria": {
+      "has_item": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_shovel": {
+    "criteria": {
+      "has_item": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_axe": {
+    "criteria": {
+      "has_item": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_hoe": {
+    "criteria": {
+      "has_item": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_sword": {
+    "criteria": {
+      "has_item": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonsteel_lightning_pickaxe": {
+    "criteria": {
+      "has_item": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonsteel_lightning_boots": {
+    "criteria": {
+      "has_item": "2024-12-26 01:37:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2024-12-26 01:45:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2024-12-26 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2024-12-26 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2024-12-26 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2024-12-26 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2024-12-26 01:45:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain_sticky": {
+    "criteria": {
+      "has_item": "2024-12-26 01:46:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_dragonsteel_lightning_tail": {
+    "criteria": {
+      "has_item": "2024-12-26 02:27:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragonsteel_lightning_block_to_dragonsteel_lightning_ingot": {
+    "criteria": {
+      "has_dragonsteel_lightning_block": "2024-12-26 02:27:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_dragonsteel_lightning_head": {
+    "criteria": {
+      "has_item": "2024-12-26 02:27:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_dragonsteel_lightning_body": {
+    "criteria": {
+      "has_item": "2024-12-26 02:27:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_dragonsteel_lightning_neck": {
+    "criteria": {
+      "has_item": "2024-12-26 02:27:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2024-12-26 02:30:56 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonsteel_weapon": {
+    "criteria": {
+      "sword": "2024-12-26 02:51:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/create_beacon": {
+    "criteria": {
+      "beacon": "2024-12-26 02:53:15 +0000"
     },
     "done": true
   },
