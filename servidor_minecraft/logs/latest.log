@@ -1519,3 +1519,90 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [13Jan2025 04:51:28.390] [Netty Epoll Server IO #7/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.32.52.231:59021] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
 [13Jan2025 04:52:50.710] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Randa'/46094, l='ServerLevel[world]', x=-5396.40, y=68.94, z=-712.54] died, message: 'Randa was slain by Fr0chi'
 [13Jan2025 04:52:50.712] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Villager['Randa'/46094, l='ServerLevel[world]', x=-5396.40, y=68.94, z=-712.54] died: Randa was slain by Fr0chi
+[13Jan2025 04:54:10.586] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Guard['Porfirio'/46212, l='ServerLevel[world]', x=-5386.68, y=79.63, z=-670.40] died: Porfirio was turned to ice by Fr0chi
+[13Jan2025 04:54:16.393] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=31, z=-787}
+[13Jan2025 04:54:16.394] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-390, y=31, z=-789}
+[13Jan2025 04:54:16.394] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-785}
+[13Jan2025 04:54:20.560] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=31, z=-788}
+[13Jan2025 04:54:20.560] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-349, y=31, z=-788}
+[13Jan2025 04:54:20.561] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-347, y=31, z=-788}
+[13Jan2025 04:54:20.561] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-352, y=34, z=-790}
+[13Jan2025 04:54:20.561] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-352, y=34, z=-789}
+[13Jan2025 04:54:20.561] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-351, y=34, z=-789}
+[13Jan2025 04:54:20.561] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-345, y=30, z=-784}
+[13Jan2025 04:54:20.576] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-375, y=33, z=-885}
+[13Jan2025 04:54:20.577] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-375, y=32, z=-885}
+[13Jan2025 04:54:20.577] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=46, z=-881}
+[13Jan2025 04:54:20.577] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=68, z=-881}
+[13Jan2025 04:54:20.606] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=61, z=-875}
+[13Jan2025 04:54:20.606] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=62, z=-875}
+[13Jan2025 04:54:20.607] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=61, z=-877}
+[13Jan2025 04:54:20.607] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-386, y=62, z=-877}
+[13Jan2025 04:54:20.607] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=46, z=-867}
+[13Jan2025 04:54:20.607] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-371, y=47, z=-874}
+[13Jan2025 04:54:20.607] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-382, y=68, z=-867}
+[13Jan2025 04:54:20.607] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-375, y=68, z=-874}
+[13Jan2025 04:54:20.617] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-384, y=31, z=-817}
+[13Jan2025 04:54:21.290] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-356, y=31, z=-788}
+[13Jan2025 04:54:21.291] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=31, z=-788}
+[13Jan2025 04:54:21.291] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=31, z=-791}
+[13Jan2025 04:54:21.291] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-357, y=31, z=-791}
+[13Jan2025 04:54:21.291] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=31, z=-790}
+[13Jan2025 04:54:21.292] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=31, z=-788}
+[13Jan2025 04:54:21.292] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-359, y=26, z=-794}
+[13Jan2025 04:54:21.292] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-358, y=27, z=-786}
+[13Jan2025 04:54:21.292] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-353, y=34, z=-788}
+[13Jan2025 04:54:21.292] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-355, y=34, z=-788}
+[13Jan2025 04:54:21.292] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=34, z=-788}
+[13Jan2025 04:54:21.293] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-353, y=34, z=-790}
+[13Jan2025 04:54:21.293] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-354, y=34, z=-787}
+[13Jan2025 04:54:21.293] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-353, y=34, z=-787}
+[13Jan2025 04:54:21.401] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-389, y=46, z=-874}
+[13Jan2025 04:54:21.402] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-389, y=68, z=-874}
+[13Jan2025 04:54:21.438] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-391, y=27, z=-813}
+[13Jan2025 04:54:21.439] [Worker-Main-1/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-392, y=27, z=-813}
+[13Jan2025 04:54:22.654] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-5354, y=96, z=-255}
+[13Jan2025 04:54:49.031] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditnaturalEntity['Bandit'/48682, l='ServerLevel[world]', x=-5425.44, y=109.50, z=-204.38] died: Bandit was frozen by Fr0chi
+[13Jan2025 04:54:49.032] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditnaturalEntity['Bandit'/48681, l='ServerLevel[world]', x=-5426.83, y=108.00, z=-201.13] died: Bandit was turned to ice by Fr0chi
+[13Jan2025 04:55:16.036] [Netty Epoll Server IO #1/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,guardvillagers:main,citadel:main_channel,easymagic:1,iceandfire:main_channel,curios:main,fantasyfurniture:net,w2w2:main,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,jet_and_elias_armors:jet_and_elias_armors,alexsmobs:main_channel,memory_of_the_past:memory_of_the_past,epicfight:network_manager,shifu_epic_fight_skill_recipe:shifu_epic_fight_skill_recipe,doggytalents:channel,twilightforest:channel,waystones:network,apexcore:main] rejected vanilla connections
+[13Jan2025 04:55:16.036] [Netty Epoll Server IO #1/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.32.52.231:52607] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[13Jan2025 04:55:20.933] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:21.033] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:21.633] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:21.732] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:21.832] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:21.932] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:22.033] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:22.731] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:22.832] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:22.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:23.031] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:23.132] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:23.731] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:23.833] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:23.932] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:26.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:26.133] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:26.231] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:26.932] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:27.032] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:27.132] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:27.231] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:27.333] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:27.930] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:28.033] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:28.131] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:28.230] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:28.331] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:55:29.035] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:57:22.797] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:59:58.036] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:59:58.137] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:59:58.238] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:59:58.335] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:59:58.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:59:58.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:59:58.641] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 04:59:58.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 05:01:59.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1779.500000, 93.500000, -2035.500000]
+[13Jan2025 05:02:13.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1809.500000, 73.500000, -1591.500000]

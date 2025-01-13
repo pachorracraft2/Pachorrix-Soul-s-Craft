@@ -92,6 +92,7 @@
       "minecraft:spider": "2024-12-22 03:48:39 +0000",
       "minecraft:creeper": "2024-12-22 04:29:15 +0000",
       "minecraft:slime": "2024-12-22 07:12:38 +0000",
+      "minecraft:evoker": "2025-01-13 05:00:28 +0000",
       "minecraft:phantom": "2024-12-22 07:06:45 +0000",
       "minecraft:zombified_piglin": "2024-12-23 22:07:26 +0000",
       "minecraft:witch": "2024-12-22 07:06:13 +0000",
@@ -4998,6 +4999,12 @@
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sapphire_gem_to_sapphire_block": {
+    "criteria": {
+      "has_sapphire_gem": "2025-01-13 04:58:45 +0000"
     },
     "done": true
   },
