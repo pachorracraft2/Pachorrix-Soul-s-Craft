@@ -1687,3 +1687,35 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [13Jan2025 05:43:31.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -18.555083751773054,0.0,19.024942998526058
 [13Jan2025 05:44:00.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/77788, l='ServerLevel[world]', x=-8446.17, y=111.50, z=5907.95] died: Bandit was slain by ElFaxx
 [13Jan2025 05:44:01.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BanditCaptainEntity['Bandit Captain'/77792, l='ServerLevel[world]', x=-8444.47, y=111.50, z=5904.43] died: Bandit Captain was slain by ElFaxx
+[13Jan2025 05:44:36.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -10.191188480355777,0.0,3.928580191834044
+[13Jan2025 05:44:36.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -12.19585823999114,0.0,4.815700601077879
+[13Jan2025 05:44:36.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -14.18712660278834,0.0,5.73664717662723
+[13Jan2025 05:44:36.569] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -16.16569405122209,0.0,6.688837670419161
+[13Jan2025 05:44:36.631] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -9.957277054771112,0.0,4.595872892948137
+[13Jan2025 05:44:36.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -11.909991813596207,0.0,5.607355568082312
+[13Jan2025 05:44:36.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -13.85195573072997,0.0,6.643445371837515
+[13Jan2025 05:45:27.067] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-8027, y=69, z=6881}
+[13Jan2025 05:46:04.546] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! 2.9085739919091793,0.0,-10.675896363937682
+[13Jan2025 05:46:04.547] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! 3.5872702013912203,0.0,-12.781509776362327
+[13Jan2025 05:46:04.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -4.2663486667843245,0.0,12.573340014956557
+[13Jan2025 05:46:04.743] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -4.2663486667843245,0.0,12.573340014956557
+[13Jan2025 05:46:04.764] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -3.4928202906494334,0.0,10.496701667227171
+[13Jan2025 05:46:18.733] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditnaturalEntity['Bandit'/87290, l='ServerLevel[world]', x=-8484.93, y=114.31, z=5884.12] died: Bandit was struck with lightning by ElFaxx
+[13Jan2025 05:47:24.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -911.500000, 162.500000, -2482.500000]
+[13Jan2025 05:47:38.330] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 05:47:40.029] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 05:47:43.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved wrongly! 0.8450912347561825
+[13Jan2025 05:47:44.041] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved wrongly! 2.0406416777314007
+[13Jan2025 05:47:44.086] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved wrongly! 3.2456408930083853
+[13Jan2025 05:47:44.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved wrongly! 3.890411948011206
+[13Jan2025 05:47:44.171] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved wrongly! 3.890411948011206
+[13Jan2025 05:47:58.129] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[13Jan2025 05:48:48.689] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fr0chi moved wrongly!
+[13Jan2025 05:48:51.660] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fr0chi moved wrongly!
+[13Jan2025 05:50:35.085] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fr0chi lost connection: Disconnected
+[13Jan2025 05:50:35.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi left the game
+[13Jan2025 05:51:03.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -1261.500000, 119.500000, -1923.500000]
+[13Jan2025 05:51:42.761] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [carryon:carryonpackets,guardvillagers:main,citadel:main_channel,easymagic:1,iceandfire:main_channel,curios:main,fantasyfurniture:net,w2w2:main,cataclysm:main_channel,lionfishapi:main_channel,forge:tier_sorting,jet_and_elias_armors:jet_and_elias_armors,alexsmobs:main_channel,memory_of_the_past:memory_of_the_past,epicfight:network_manager,shifu_epic_fight_skill_recipe:shifu_epic_fight_skill_recipe,doggytalents:channel,twilightforest:channel,waystones:network,apexcore:main] rejected vanilla connections
+[13Jan2025 05:51:42.761] [Netty Epoll Server IO #6/INFO] [net.minecraftforge.server.ServerLifecycleHooks/SERVERHOOKS]: [/127.32.52.231:42077] Disconnecting VANILLA connection attempt: This server has mods that require Forge to be installed on the client. Contact your server admin for more details.
+[13Jan2025 05:52:26.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -604.500000, 63.500000, -3684.500000]
+[13Jan2025 05:52:48.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -533.500000, 65.500000, -3149.500000]
