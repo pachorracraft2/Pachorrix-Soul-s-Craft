@@ -1640,3 +1640,50 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [13Jan2025 05:23:39.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -739.500000, 36.500000, 93.500000]
 [13Jan2025 05:23:49.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -489.500000, 58.500000, 529.500000]
 [13Jan2025 05:24:07.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to Fr0chi]
+[13Jan2025 05:24:33.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -451.500000, 58.500000, 610.500000]
+[13Jan2025 05:24:56.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -475.500000, 94.500000, 611.500000]
+[13Jan2025 05:28:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to ElFaxx]
+[13Jan2025 05:28:27.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -590.500000, 53.500000, 694.500000]
+[13Jan2025 05:30:22.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -150.500000, 44.500000, -316.500000]
+[13Jan2025 05:32:05.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to ElFaxx]
+[13Jan2025 05:33:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -682.500000, 53.500000, -1235.500000]
+[13Jan2025 05:33:17.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx has made the advancement [Reach Level 50]
+[13Jan2025 05:34:09.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -642.000000, 38.680000, -1244.400000]
+[13Jan2025 05:35:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -192.500000, 43.500000, -388.500000]
+[13Jan2025 05:35:03.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -121.500000, 80.500000, -318.500000]
+[13Jan2025 05:35:31.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -186.500000, 45.500000, -454.500000]
+[13Jan2025 05:36:28.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -657.500000, 44.500000, 874.500000]
+[13Jan2025 05:37:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to Fr0chi]
+[13Jan2025 05:38:38.384] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Jan2025 05:38:41.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi has completed the challenge [Subspace Bubble]
+[13Jan2025 05:38:41.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2852ms or 57 ticks behind
+[13Jan2025 05:38:42.585] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Jan2025 05:39:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -8662.500000, 80.500000, 6029.500000]
+[13Jan2025 05:39:26.322] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[13Jan2025 05:39:26.322] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[13Jan2025 05:39:26.323] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[13Jan2025 05:39:26.323] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[13Jan2025 05:39:26.323] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[13Jan2025 05:39:56.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to ElFaxx]
+[13Jan2025 05:40:53.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx moved wrongly!
+[13Jan2025 05:40:58.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RogueEntity['Rogue Bandit'/77793, l='ServerLevel[world]', x=-8484.29, y=112.00, z=5940.03] died: Rogue Bandit was slain by ElFaxx using [LA BIJA PICHUKIANA]
+[13Jan2025 05:40:58.683] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/77789, l='ServerLevel[world]', x=-8482.28, y=112.00, z=5939.51] died: Bandit was slain by ElFaxx using [LA BIJA PICHUKIANA]
+[13Jan2025 05:41:23.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/77790, l='ServerLevel[world]', x=-8492.61, y=115.00, z=5898.12] died: Bandit was slain by ElFaxx using [LA BIJA PICHUKIANA]
+[13Jan2025 05:41:28.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/77791, l='ServerLevel[world]', x=-8499.30, y=115.00, z=5898.70] died: Bandit was slain by ElFaxx using [LA BIJA PICHUKIANA]
+[13Jan2025 05:42:28.124] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[13Jan2025 05:42:28.124] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[13Jan2025 05:43:31.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -10.096629953832235,0.0,4.477585040707709
+[13Jan2025 05:43:31.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -12.073251439886008,0.0,5.459763462728915
+[13Jan2025 05:43:31.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -13.914739609035678,0.0,6.575441746209435
+[13Jan2025 05:43:31.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -15.637040192676068,0.0,7.808866907496849
+[13Jan2025 05:43:31.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -17.254217325897116,0.0,9.146144815010302
+[13Jan2025 05:43:31.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -18.778675575847956,0.0,10.575020844695246
+[13Jan2025 05:43:31.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -20.221355770756418,0.0,12.08468641813488
+[13Jan2025 05:43:31.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -21.581569994363235,0.0,13.669431477415856
+[13Jan2025 05:43:31.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -22.83288695364172,0.0,15.33016067436347
+[13Jan2025 05:43:31.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -23.93848003811945,0.0,17.06291687034809
+[13Jan2025 05:43:31.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -16.79694513805589,0.0,15.310896561953086
+[13Jan2025 05:43:31.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -17.697391407977193,0.0,17.14894017376446
+[13Jan2025 05:43:31.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -18.555083751773054,0.0,19.024942998526058
+[13Jan2025 05:44:00.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/77788, l='ServerLevel[world]', x=-8446.17, y=111.50, z=5907.95] died: Bandit was slain by ElFaxx
+[13Jan2025 05:44:01.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BanditCaptainEntity['Bandit Captain'/77792, l='ServerLevel[world]', x=-8444.47, y=111.50, z=5904.43] died: Bandit Captain was slain by ElFaxx

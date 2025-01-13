@@ -10807,3 +10807,100 @@ Caused by: java.io.IOException: Packet 0/1 (ServerboundBlockEntityTagQuery) was 
 [13Jan2025 05:23:39.884] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -739.500000, 36.500000, 93.500000]
 [13Jan2025 05:23:49.987] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -489.500000, 58.500000, 529.500000]
 [13Jan2025 05:24:07.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to Fr0chi]
+[13Jan2025 05:24:33.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -451.500000, 58.500000, 610.500000]
+[13Jan2025 05:24:56.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -475.500000, 94.500000, 611.500000]
+[13Jan2025 05:25:46.760] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 05:25:46.769] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 05:28:00.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to ElFaxx]
+[13Jan2025 05:28:27.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -590.500000, 53.500000, 694.500000]
+[13Jan2025 05:30:22.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -150.500000, 44.500000, -316.500000]
+[13Jan2025 05:30:42.541] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_R_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
+[13Jan2025 05:30:42.541] [Server thread/DEBUG] [epicfight/]: [EpicFightMod] No joint named Leg_L_IK in CancelableDodgeAnimation wom:animmodels/animations/biped/skill/agony_rising_eagle.json
+[13Jan2025 05:30:46.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 05:30:46.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 05:32:05.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to ElFaxx]
+[13Jan2025 05:33:14.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -682.500000, 53.500000, -1235.500000]
+[13Jan2025 05:33:17.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ElFaxx has made the advancement [Reach Level 50]
+[13Jan2025 05:34:09.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -642.000000, 38.680000, -1244.400000]
+[13Jan2025 05:35:01.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -192.500000, 43.500000, -388.500000]
+[13Jan2025 05:35:03.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -121.500000, 80.500000, -318.500000]
+[13Jan2025 05:35:31.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -186.500000, 45.500000, -454.500000]
+[13Jan2025 05:35:46.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 05:35:46.776] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 05:36:28.913] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to -657.500000, 44.500000, 874.500000]
+[13Jan2025 05:37:30.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to Fr0chi]
+[13Jan2025 05:38:38.384] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Jan2025 05:38:38.776] [Worker-Main-3/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:bathhouse/bathhouse_top_5
+[13Jan2025 05:38:41.194] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fr0chi has completed the challenge [Subspace Bubble]
+[13Jan2025 05:38:41.200] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-1085, y=35, z=760} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[13Jan2025 05:38:41.200] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-1085, y=35, z=760} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[13Jan2025 05:38:41.274] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2852ms or 57 ticks behind
+[13Jan2025 05:38:41.288] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[13Jan2025 05:38:41.299] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:coliseum/coliseum_part_0
+[13Jan2025 05:38:41.338] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:heavenly_rider/heavenly_rider_part_0
+[13Jan2025 05:38:41.446] [Worker-Main-1/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mining_system/mining_system_straight_0
+[13Jan2025 05:38:41.466] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_3 is being run through DFU (hash a15b08337c7adaeeaa3ee4b453591f373857a09a732542bde3cc405b9177f6d8), this will cause launch time delays
+[13Jan2025 05:38:41.487] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_0 is being run through DFU (hash bf23db55ed7d5c73cf3fb5671b3db02e5c83af359d1e66b89c28216a6f9be917), this will cause launch time delays
+[13Jan2025 05:38:41.502] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_4 is being run through DFU (hash 47d1184c4d001ce337c6456fd742c7476eb225727e918789aa5628b16a8493cb), this will cause launch time delays
+[13Jan2025 05:38:41.522] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_street_5 is being run through DFU (hash 1269b0b1d57ca6a112d4c55fd4902961bc5c5566683cc6600fd7079ee9d77543), this will cause launch time delays
+[13Jan2025 05:38:41.535] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_8 is being run through DFU (hash bbed328bb0806a5f8abe6a3f9e4c0ef0da6dea723ce8c345083cdd186c2b3289), this will cause launch time delays
+[13Jan2025 05:38:41.545] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_1 is being run through DFU (hash 6836751b9b7fb5886d865d0123799dcce2bba2350268889a0be944b0041e250b), this will cause launch time delays
+[13Jan2025 05:38:41.547] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_9 is being run through DFU (hash 72d962fb858cba264fd658485f546d713d512b52bacb053394a989da999326c2), this will cause launch time delays
+[13Jan2025 05:38:41.556] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_11 is being run through DFU (hash 5401c610d3706d8b6fada968b1b50bd07b4b0be139c70309e52ce9251d85d811), this will cause launch time delays
+[13Jan2025 05:38:41.559] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_6 is being run through DFU (hash 0d3ae5a86ff34f2523bf68422107572fa34299c1b3bf1772294b4bf9fe362936), this will cause launch time delays
+[13Jan2025 05:38:41.664] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_7 is being run through DFU (hash da9b106f34b46847fca307bddfe8355b2cd8d3ba0ee6ae5fb38502041c289b99), this will cause launch time delays
+[13Jan2025 05:38:41.668] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_0 is being run through DFU (hash 2ff5721c0410ef90e99f7cdfed7da1fbb09452fa7c3d793e24baa3f6970a1ba8), this will cause launch time delays
+[13Jan2025 05:38:41.672] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_9 is being run through DFU (hash 24f9a49585b1e9147d5a608aad029201e7a2c894716823a9d3213d2b67fd24df), this will cause launch time delays
+[13Jan2025 05:38:41.676] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_8 is being run through DFU (hash f0a7c0ed67111b7ce7d8fa288e2761c9b4d3242e992eef611ff6025ed3a6cd96), this will cause launch time delays
+[13Jan2025 05:38:41.679] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_2 is being run through DFU (hash 0d3253fd379d4a7021e13d7d4d4f9a0f886c26db28ac3f9fca5af9186e958d8d), this will cause launch time delays
+[13Jan2025 05:38:41.683] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_10 is being run through DFU (hash cc9254c57096766ea0f4d6c8af33ba426e14e26c2797d4f0a04d9dd3e3f41be3), this will cause launch time delays
+[13Jan2025 05:38:41.689] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_5 is being run through DFU (hash f1c56442a7fc2bb97723653bc849fe19059bcfb3879150a8fb69d27fc7cce6e4), this will cause launch time delays
+[13Jan2025 05:38:41.693] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_6 is being run through DFU (hash 3addeef1bd3fa4b303dcd3a9624fbb8befd91bc37a09ffc733ce604793a97f71), this will cause launch time delays
+[13Jan2025 05:38:41.696] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_1 is being run through DFU (hash c6236a19b873586e9bb54a09a5b0ceede18a7e3280986c7406a079c52b892dc5), this will cause launch time delays
+[13Jan2025 05:38:41.703] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_4 is being run through DFU (hash 65346d252fbfce1a47692ce1c78ca5347f6da92c78c4a16507f27bbb71c11426), this will cause launch time delays
+[13Jan2025 05:38:41.707] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_4 is being run through DFU (hash 96899e83df030b33991bc7fbc7ecb7ed55fa886d3a02aa0afd2ad5a74a63f0bd), this will cause launch time delays
+[13Jan2025 05:38:41.708] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_12 is being run through DFU (hash e8d6884b3f9044b6ebfbdadf9ef2132e7af8d6f8b7ac6f7af9a7387861bae3b6), this will cause launch time delays
+[13Jan2025 05:38:41.714] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_2 is being run through DFU (hash 1521a100dc9fadf0dbb5070a31ce77465a294b403d564f3f05d064b405ce441d), this will cause launch time delays
+[13Jan2025 05:38:41.716] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_house_3 is being run through DFU (hash 0480f34a352a9b7303d71a185674dadee184fffefc208ff56b43558194d6a8ec), this will cause launch time delays
+[13Jan2025 05:38:41.720] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_0 is being run through DFU (hash 61295310d71474a442e83ba03a803713e1ba4a2318c9271eca8c4951c8208a3e), this will cause launch time delays
+[13Jan2025 05:38:41.721] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_7 is being run through DFU (hash defe8ef8b9d13c7aa61d50f0c149bea235d36c6eeabd7e5f43d3086964b5497f), this will cause launch time delays
+[13Jan2025 05:38:41.724] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_deco_5 is being run through DFU (hash 0701dd046ffd2fc28e196417016de4d3dc5780887240554b4419708d4a19d921), this will cause launch time delays
+[13Jan2025 05:38:42.033] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_assassin_0 is being run through DFU (hash 2b23c1804258f9f740059618ffc6c3ee6e5e637361b7bb77020389575e823df7), this will cause launch time delays
+[13Jan2025 05:38:42.040] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_hoglin_0 is being run through DFU (hash a32b6db3a3440b928130b61d0539f86177efcb945d0df1069fe663a2019ba7e8), this will cause launch time delays
+[13Jan2025 05:38:42.053] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_archer_0 is being run through DFU (hash 9b1513ff9013dc662b572e80a8ccf55935501f49fbf919148933018a241764b8), this will cause launch time delays
+[13Jan2025 05:38:42.097] [Worker-Main-1/DEBUG] [ModernFix/]: Structure dungeons_arise:bandit_village/bandit_village_hoglin_1 is being run through DFU (hash b24b2724c1685175ba9d620139259f8d974aa75d6cc8c9b6cc317d013aba1f0a), this will cause launch time delays
+[13Jan2025 05:38:42.585] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: No return portal found
+[13Jan2025 05:38:42.588] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-1085, y=35, z=760} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[13Jan2025 05:38:42.589] [Server thread/DEBUG] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Storing return portal from ResourceKey[minecraft:dimension / minecraft:overworld] to BlockPos{x=-1085, y=35, z=760} in ResourceKey[minecraft:dimension / minecraft:the_nether]
+[13Jan2025 05:39:11.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ElFaxx: Teleported ElFaxx to -8662.500000, 80.500000, 6029.500000]
+[13Jan2025 05:39:26.322] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-193, y=-45, z=-211}
+[13Jan2025 05:39:26.322] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-210}
+[13Jan2025 05:39:26.323] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-187, y=-49, z=-219}
+[13Jan2025 05:39:26.323] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-189, y=-45, z=-211}
+[13Jan2025 05:39:26.323] [Worker-Main-3/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-191, y=-45, z=-211}
+[13Jan2025 05:39:56.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Fr0chi: Teleported Fr0chi to ElFaxx]
+[13Jan2025 05:40:49.617] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Jan2025 05:40:49.625] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Jan2025 05:40:53.920] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ElFaxx moved wrongly!
+[13Jan2025 05:40:58.638] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity RogueEntity['Rogue Bandit'/77793, l='ServerLevel[world]', x=-8484.29, y=112.00, z=5940.03] died: Rogue Bandit was slain by ElFaxx using [LA BIJA PICHUKIANA]
+[13Jan2025 05:40:58.683] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/77789, l='ServerLevel[world]', x=-8482.28, y=112.00, z=5939.51] died: Bandit was slain by ElFaxx using [LA BIJA PICHUKIANA]
+[13Jan2025 05:41:23.739] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/77790, l='ServerLevel[world]', x=-8492.61, y=115.00, z=5898.12] died: Bandit was slain by ElFaxx using [LA BIJA PICHUKIANA]
+[13Jan2025 05:41:28.736] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/77791, l='ServerLevel[world]', x=-8499.30, y=115.00, z=5898.70] died: Bandit was slain by ElFaxx using [LA BIJA PICHUKIANA]
+[13Jan2025 05:41:46.690] [Worker-Main-2/DEBUG] [ModernFix/]: Using cached upgraded version of iceandfire:village/plains_scriber_1
+[13Jan2025 05:42:28.124] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-57, z=-201}
+[13Jan2025 05:42:28.124] [Worker-Main-2/ERROR] [net.minecraft.world.entity.decoration.HangingEntity/]: Hanging entity at invalid position: BlockPos{x=-183, y=-58, z=-205}
+[13Jan2025 05:43:31.517] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -10.096629953832235,0.0,4.477585040707709
+[13Jan2025 05:43:31.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -12.073251439886008,0.0,5.459763462728915
+[13Jan2025 05:43:31.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -13.914739609035678,0.0,6.575441746209435
+[13Jan2025 05:43:31.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -15.637040192676068,0.0,7.808866907496849
+[13Jan2025 05:43:31.518] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -17.254217325897116,0.0,9.146144815010302
+[13Jan2025 05:43:31.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -18.778675575847956,0.0,10.575020844695246
+[13Jan2025 05:43:31.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -20.221355770756418,0.0,12.08468641813488
+[13Jan2025 05:43:31.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -21.581569994363235,0.0,13.669431477415856
+[13Jan2025 05:43:31.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -22.83288695364172,0.0,15.33016067436347
+[13Jan2025 05:43:31.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -23.93848003811945,0.0,17.06291687034809
+[13Jan2025 05:43:31.565] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -16.79694513805589,0.0,15.310896561953086
+[13Jan2025 05:43:31.627] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -17.697391407977193,0.0,17.14894017376446
+[13Jan2025 05:43:31.678] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Salamance (vehicle of Fr0chi) moved too quickly! -18.555083751773054,0.0,19.024942998526058
+[13Jan2025 05:44:00.190] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity MartialbanditEntity['Bandit'/77788, l='ServerLevel[world]', x=-8446.17, y=111.50, z=5907.95] died: Bandit was slain by ElFaxx
+[13Jan2025 05:44:01.436] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity BanditCaptainEntity['Bandit Captain'/77792, l='ServerLevel[world]', x=-8444.47, y=111.50, z=5904.43] died: Bandit Captain was slain by ElFaxx

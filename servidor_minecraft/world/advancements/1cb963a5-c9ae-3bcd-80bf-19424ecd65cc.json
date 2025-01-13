@@ -33,10 +33,12 @@
     "criteria": {
       "minecraft:mushroom_fields": "2024-12-23 19:53:52 +0000",
       "minecraft:deep_ocean": "2024-12-22 10:46:03 +0000",
+      "minecraft:eroded_badlands": "2025-01-13 05:40:14 +0000",
       "minecraft:frozen_river": "2025-01-13 04:31:42 +0000",
       "minecraft:cherry_grove": "2024-12-23 19:50:50 +0000",
       "minecraft:birch_forest": "2024-12-23 23:30:09 +0000",
       "minecraft:bamboo_jungle": "2024-12-22 06:40:08 +0000",
+      "minecraft:badlands": "2025-01-13 05:39:56 +0000",
       "minecraft:beach": "2024-12-22 06:34:42 +0000",
       "minecraft:dark_forest": "2024-12-22 08:39:54 +0000",
       "minecraft:mangrove_swamp": "2024-12-22 05:48:40 +0000",
@@ -90,6 +92,7 @@
       "minecraft:vindicator": "2024-12-23 09:11:33 +0000",
       "minecraft:magma_cube": "2024-12-22 06:17:13 +0000",
       "minecraft:spider": "2024-12-22 03:48:39 +0000",
+      "minecraft:piglin_brute": "2025-01-13 05:22:00 +0000",
       "minecraft:creeper": "2024-12-22 04:29:15 +0000",
       "minecraft:slime": "2024-12-22 07:12:38 +0000",
       "minecraft:evoker": "2025-01-13 05:00:28 +0000",
@@ -99,6 +102,7 @@
       "minecraft:wither_skeleton": "2024-12-22 06:50:51 +0000",
       "minecraft:husk": "2024-12-22 05:28:16 +0000",
       "minecraft:cave_spider": "2024-12-23 05:10:02 +0000",
+      "minecraft:piglin": "2025-01-13 05:21:37 +0000",
       "minecraft:enderman": "2024-12-22 05:05:09 +0000",
       "minecraft:stray": "2025-01-13 04:29:12 +0000",
       "minecraft:vex": "2025-01-13 05:02:06 +0000",
@@ -4925,6 +4929,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 05:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 05:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
@@ -4934,6 +4950,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/magma_cream": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 05:28:08 +0000"
     },
     "done": true
   },
@@ -4973,6 +4995,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 05:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
@@ -4997,6 +5025,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/fire_charge": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 05:28:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
@@ -5006,6 +5040,12 @@
   "minecraft:recipes/building_blocks/magenta_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 05:30:40 +0000"
     },
     "done": true
   },
@@ -5069,9 +5109,27 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-01-13 05:22:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 05:30:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-01-13 04:26:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 05:30:40 +0000"
     },
     "done": true
   },
@@ -5081,9 +5139,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/ender_eye": {
+    "criteria": {
+      "has_blaze_powder": "2025-01-13 05:28:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-01-13 05:30:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-01-13 05:21:24 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/gorgon_head": {
     "criteria": {
       "bestiary": "2025-01-13 04:43:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/fast_travel": {
+    "criteria": {
+      "travelled": "2025-01-13 05:38:41 +0000"
     },
     "done": true
   },
